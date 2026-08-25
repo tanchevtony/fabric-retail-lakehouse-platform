@@ -1,3 +1,6 @@
+Workspase:
+WS_<name>
+
 Lakehouses:
 LH_<name>
 
